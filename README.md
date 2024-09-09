@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bảo Lâm Nguyễn Khắc</h1>
-<h3 align="center">I'm from Viet Nam</h3>
+<h3 align="center">I'm from Viet Nam And middle school students </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p>MarisaOJ: <a href="https://marisaoj.com/user/toshirohitsugaya/submissions" target="_blank"><strong>toshirohitsugaya</strong></a></p>
